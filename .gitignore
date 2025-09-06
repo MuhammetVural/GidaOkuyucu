@@ -43,3 +43,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+.packages
+
+build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+pubspec.lock
+
+# Env dosyaları (gizli tut)
+lib/core/env.dart
+/lib/core/env.dart
+.env
+*.env
