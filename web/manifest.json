@@ -1,0 +1,35 @@
+{
+    "name": "gida_okuyucu",
+    "short_name": "gida_okuyucu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Barkodu okutarak ürünlerin besin değerlerine, içindekiler listesine ve alerjen uyarılarına anında erişin. Sağlıklı beslenmek, şeker, tuz, yağ oranlarını kontrol etmek ve katkı maddelerini tanımak artık çok kolay. Etiketi okumakla uğraşmayın, uygulama sizin yerinize okusun.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
