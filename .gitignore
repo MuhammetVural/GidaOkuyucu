@@ -56,5 +56,6 @@ pubspec.lock
 
 # Env dosyaları (gizli tut)
 lib/core/env.dart
+/lib/core/env.dart
 .env
 *.env
